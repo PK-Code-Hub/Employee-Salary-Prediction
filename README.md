@@ -50,8 +50,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ayushanand18/income-predictor.git
-    cd income-predictor
+    git clone https://github.com/PK-Code-Hub/Employee-Salary-Prediction.git
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -99,5 +98,5 @@ The predictive power of this application comes from a carefully constructed mach
 
 ## 🤝 Contact
 
-Created with passion by Ayush Anand. Let's connect!
-- **LinkedIn:** [Ayush Anand](https://www.linkedin.com/in/3ayushanand/)
+Created with passion by Pankaj Kumar. Let's connect!
+- **LinkedIn:** [Pankaj Kumar](https://www.linkedin.com/in/pankaj-kumar-93172b309/)
