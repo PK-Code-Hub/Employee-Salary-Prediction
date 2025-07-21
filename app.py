@@ -116,7 +116,7 @@ with col1:
         job_title = st.selectbox("Job Title", options=label_encoders["Job Title"].classes_, index=5)
         
         # The submit button for the form
-        submit_button = st.form_submit_button("✨ Divine the Salary")
+        submit_button = st.form_submit_button("✨ Predict the Salary")
         
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -184,9 +184,9 @@ with st.expander(" peek behind the curtain at the model's performance..."):
 st.markdown("---")
 st.markdown("""
 <div class="footer">
-    <p>Crafted with 🧠 & ❤️ by <b>Ayush Anand</b></p>
-    <a href="https://github.com/Ayush03A" target="_blank">GitHub</a> | 
-    <a href="https://www.linkedin.com/in/3ayushanand/" target="_blank">LinkedIn</a>
+    <p>Crafted with 🧠 & ❤️ by <b>Pankaj Kumar</b></p>
+    <a href="https://github.com/PK-Code-Hub">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/pankaj-kumar-93172b309/" target="_blank">LinkedIn</a>
 </div>
 """, unsafe_allow_html=True)
 
